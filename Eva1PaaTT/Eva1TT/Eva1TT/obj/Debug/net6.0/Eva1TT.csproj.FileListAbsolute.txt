@@ -1,0 +1,30 @@
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.exe
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.deps.json
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.runtimeconfig.json
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.dll
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.pdb
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.csproj.AssemblyReference.cache
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.AssemblyInfo.cs
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.dll
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\refint\Eva1TT.dll
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.pdb
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.genruntimeconfig.cache
+C:\Users\laboratorio\Documents\Visual Studio 2022\TTC\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\ref\Eva1TT.dll
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.csproj.AssemblyReference.cache
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.AssemblyInfoInputs.cache
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.AssemblyInfo.cs
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.csproj.CoreCompileInputs.cache
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.exe
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.deps.json
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.runtimeconfig.json
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.dll
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\bin\Debug\net6.0\Eva1TT.pdb
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.dll
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\refint\Eva1TT.dll
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.pdb
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\Eva1TT.genruntimeconfig.cache
+D:\Desktop\Progra Avanzada de Aplicaciones\Eva1PaaTT\Eva1TT\Eva1TT\obj\Debug\net6.0\ref\Eva1TT.dll

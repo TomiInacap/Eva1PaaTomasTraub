@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZP1xYtuFQomYdpO+rOYE57sgFKXHAbKP8xwdWrCSONZihuHfY8aPUedpjvOcU/7GTnv4JEISBvrlbX92/zYPzA==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Progra Avanzada de Aplicaciones\\Eva1PaaTT\\Eva1TT\\Eva1TT\\Eva1TT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zittit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Zittit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Zittit\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Zittit\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
